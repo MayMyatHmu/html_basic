@@ -1,0 +1,11 @@
+.important {
+  color: orange;
+  font-size: 20px;
+}
+.warning {
+  color: blue;
+  font-size: 20px;
+}
+.warning .important {
+  color: red;
+}

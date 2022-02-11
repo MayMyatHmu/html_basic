@@ -1,0 +1,22 @@
+h1 {
+  color: green;
+}
+div,
+p {
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+div,
+a {
+  text-decoration: none;
+}
+div,
+a:hover {
+  color: red;
+}
+div,
+a,
+span {
+  font-weight: bold;
+  text-shadow: yellow 0 0 3px, green 4px 4px 10px;
+}
